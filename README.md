@@ -1,9 +1,9 @@
 jQuery Knob
 =============
 
-- canvas based ; no png or jpg sprites.
-- touch, mouse and mousewheel, keyboard events implemented.
-- downward compatible ; overloads an input element.
+- HTML5 canvas based; no png or jpg sprites.
+- touch, mouse and mousewheel keyboard events can be used to control knobs.
+- Backwards compatible, including graceful degradation in older browsers (most notably IE 6 - 9)
 
 Example
 -------
