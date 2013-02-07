@@ -129,7 +129,7 @@ Tested on Chrome, Safari, Firefox, IE 9.0.
 MIT License
 -------
 
-Copyright (C) 2013 Anthony Terrien
+Copyright (C) 2013 Jonathan Libby
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
